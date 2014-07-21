@@ -97,5 +97,6 @@ In the event of a further tie, the tied players share the victory...
 
 
 # Credits
-Authors: Christian Blais, Guillaume Malette, Thierry Joyal
-Illustrator: Marie-Hélène Baussart
+__Authors:__ Christian Blais, Guillaume Malette, Thierry Joyal
+
+__Illustrator:__ Marie-Hélène Baussart
